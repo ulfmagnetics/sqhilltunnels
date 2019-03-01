@@ -1,0 +1,29 @@
+{
+  "name": "stump-waterfall",
+  "version": "0.0.1",
+  "description": "A stump, and a waterfall",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "@google/maps": "^0.4.6",
+    "lodash": "^4.17.10",
+    "aws-sdk": "^2.263.1",
+    "moment": "^2.22.2",
+    "cors": "^2.8.4"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/stump-waterfall"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

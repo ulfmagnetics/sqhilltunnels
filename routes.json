@@ -1,0 +1,20 @@
+{
+  "1": {
+    "inbound": {
+      "id": 1,
+      "name": "Squirrel Hill Tunnel Inbound",
+      "direction": "inbound",
+      "start": "40.425730,-79.903773",
+      "finish": "40.429060,-79.940007",
+      "expectedDistance": 3120
+    },
+    "outbound": {
+      "id": 1,
+      "name": "Squirrel Hill Tunnel Outbound",
+      "direction": "outbound",
+      "start": "40.428940,-79.939967",
+      "finish": "40.425624,-79.903779",
+      "expectedDistance": 3117
+    }
+  }
+}
